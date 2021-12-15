@@ -8,12 +8,12 @@
             "type": "python",
             "request": "launch",
             "python": "C:/Users/wuzhuguo/.conda/envs/dj_erp/python.exe",
-            "program": "C:/works/codes/flex_in_action/django_action/django/start-bin",
+            "program": "C:/works/codes/flex_in_action/django_action/django/djs_app/start-bin",
             "args": [
                         "runserver",
                         "9100"
                     ],
-            "cwd": "C:/works/codes/flex_in_action/django_action/django",
+            "cwd": "C:/works/codes/flex_in_action/django_action/django/djs_app",
             "env": {}
         }
     ]
