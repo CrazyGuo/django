@@ -1,0 +1,20 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: DJS",
+            "type": "python",
+            "request": "launch",
+            "python": "C:/Users/wuzhuguo/.conda/envs/dj_erp/python.exe",
+            "program": "C:/works/codes/flex_in_action/django_action/django/start-bin",
+            "args": [
+                        "runserver",
+                        "9100"
+                    ],
+            "cwd": "C:/works/codes/flex_in_action/django_action/django",
+            "env": {}
+        }
+    ]
+}
